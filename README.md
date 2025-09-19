@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eainn
+- 👋 I’m learning cybersecurity, focusing on SOC, threat hunting, and pentesting labs.
 
 
 <!---
